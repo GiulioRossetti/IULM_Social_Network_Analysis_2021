@@ -24,5 +24,5 @@ I capitoli 2-8 hanno associati dei notebook python (nella cartella "tutorials") 
 
 Tali materiali sono da considerarsi di approfondimento, poiché non strettamente necessari alla comprensione dei contenuti del corso.
 
-Per eseguire gli stessi accedere a Binder/Google Colab usando il i link presente in testa a questo documento.
+Per eseguire gli stessi accedere a Binder/Google Colab usando il i link presenti in testa a questo documento.
 
